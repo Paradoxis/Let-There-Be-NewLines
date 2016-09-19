@@ -1,4 +1,4 @@
-# Let-There-Be-NewLines
+# Let There Be NewLines!
 Replaces all newlines in the bio of every GitHub profile page, because seriously, why isn't this a thing yet?
 
 ![Look at those newlines](http://i.imgur.com/TLIE9kI.gif)
