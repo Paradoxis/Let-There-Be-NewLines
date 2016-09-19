@@ -5,6 +5,9 @@ Replaces all newlines in the bio of every GitHub profile page, because seriously
 It's a chrome extension that changes the look of your profile's bio section.
 GitHub sadly doesn't allow newlines in your bio, so to rebel against the system this Chrome extension was created!
 
+## Installation
+Clone the repository in a directory of choice, in Google Chrome go to: *Settings -> Extensions*, make sure the *Developer mode* checkbox is checked, click *Load unpacked extension*, navigate to the location you cloned the source code in and select the *src* folder and press *Ok*. That's it! Now update your GitHub bio and add a few nifty newlines and you're set!
+
 ## Why haven't you put it up on the Chrome store?
 Releasing an extension costs an initial 5 dollars (that's two days worth of food okay), the life of a student is a life of crippling debt.
 If the demand relly is so big; start a gofundme campagin so we can put our collective efforts towards making this dream a reality.
