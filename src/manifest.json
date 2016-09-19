@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Let there be newlines!",
+    "description": "Replaces all newlines in the bio of every GitHub profile page, because seriously, why isn't this a thing yet?",
+    "icons": {
+        "128": "logo.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "128": "logo.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*",
+                "http://github.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
